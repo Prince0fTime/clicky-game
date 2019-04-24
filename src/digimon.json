@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "name": "Culumon",
+    "image": "https://wikimon.net/images/thumb/5/57/Culumon3.jpg/180px-Culumon3.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Locomon",
+    "image": "https://wikimon.net/images/thumb/3/3e/Locomon2.jpg/180px-Locomon2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pumpmon",
+    "image": "https://wikimon.net/images/thumb/e/e6/Pumpmon.jpg/180px-Pumpmon.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Devimon",
+    "image": "https://wikimon.net/images/thumb/2/29/Devimon.jpg/180px-Devimon.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Botamon",
+    "image": "https://wikimon.net/images/thumb/e/ed/Botamon.jpg/180px-Botamon.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bakemon",
+    "image": "https://wikimon.net/images/thumb/5/5a/Bakemon.jpg/180px-Bakemon.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Agumon",
+    "image": "https://wikimon.net/images/thumb/7/72/Agumon.jpg/180px-Agumon.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Skullgreymon",
+    "image": "https://wikimon.net/images/thumb/1/1f/Skullgreymon.jpg/180px-Skullgreymon.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Sorcerimon",
+    "image": "https://wikimon.net/images/thumb/7/70/Sorcerimon.jpg/180px-Sorcerimon.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Solarmon",
+    "image": "https://wikimon.net/images/thumb/8/87/Solarmon.jpg/180px-Solarmon.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Revolmon",
+    "image": "https://wikimon.net/images/thumb/f/f5/Revolmon.jpg/180px-Revolmon.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Mugendramon",
+    "image": "https://wikimon.net/images/thumb/c/c1/Mugendramon.jpg/180px-Mugendramon.jpg"
+  }
+]
