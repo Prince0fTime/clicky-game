@@ -1,6 +1,6 @@
 # clicky-game
 A clicky Digimon game
-this is a memory game with React.js and has dynamically rendered and re-rendered components
+this is a memory game built with React.js and has dynamically rendered and re-rendered components
 and keeps track of the user's score and resets it after an incorrect guess
 ## Technologies Used
 * ES6
